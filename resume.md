@@ -68,4 +68,4 @@
 - Most favorite game: **Mass Effect trilogy**
 - Most important quote: **Ask the right question to get the right answer**
 ---
-<img src="https://avatars.githubusercontent.com/u/64982171?v=4" alt="Shahriar Kabir" style="position: absolute; top: 2.5em; right: 3.75em; width: 100px; border-radius: 50%; border: 1px Grey solid;"/>
+<img src="https://avatars.githubusercontent.com/u/64982171?v=4" alt="Shahriar Kabir" style="position: absolute; top: 3em; right: 3em; width: 100px; border-radius: 50%; border: 1px Grey solid;"/>
